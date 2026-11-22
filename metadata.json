@@ -1,0 +1,6 @@
+{
+  "name": "Distraction Free App",
+  "description": "Offline-first bilingual (English & Bengali) Android productivity suite with Focus Mode & Pomodoro timer, To-Do manager, local Notes, Habit streak tracker, SSC Study Center, Gamification (XP, Aura, Levels, Badges), Productivity Reports, and Dark/Light themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
